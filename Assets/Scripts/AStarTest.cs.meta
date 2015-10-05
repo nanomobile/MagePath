@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ad0c84ed072b34c96922b0f9628250d3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - nodePrefab: {fileID: 100000, guid: 0c363c340e4c944feabdc8c32d5a278e, type: 2}
+  - redMat: {fileID: 2100000, guid: 2e3b56cdc833b48a8a0fbf6f8019ff45, type: 2}
+  - blueMat: {fileID: 2100000, guid: cbbb5b9daba914a75ba43e9701ab65c8, type: 2}
+  - greenMat: {fileID: 2100000, guid: c888f08e145bb4b6ab2a5f7f8712fe9a, type: 2}
+  - whiteMat: {fileID: 2100000, guid: e5cfc5d290023427b8878394ee61c144, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
